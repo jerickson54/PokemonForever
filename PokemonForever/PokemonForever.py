@@ -8,7 +8,7 @@ os.chdir("C:/Pygame/PokemonForever/platinum")
 screenSize = width,height = 1200,750
 pixelDimensions = 80
 
-MAXpokemonArraySize = 20
+MAXpokemonArraySize = 200
 pokemon = []
 
 
